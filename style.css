@@ -70,7 +70,7 @@ h3 {
 }
 
 strong {
-    color: var(--1-ttulos, #FF6A28);
+    color: #FF6A28);
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
